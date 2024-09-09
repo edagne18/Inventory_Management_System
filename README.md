@@ -1,8 +1,8 @@
-# COMP 408 Web Programming Project
+# Software Engineering Project
 
 ## Project Overview
 
-This project is a web-based application developed as part of the Spring 2024 COMP 408-01 Web Programming course. The project is designed to simulate an e-commerce system for managing users, groups, products, sales, and other administrative tasks.
+This project is a web-based application developed as part of the Software Engineering Project. The project is designed to simulate an e-commerce system for managing users, groups, products, sales, and other administrative tasks.
 
 ### Features
 
@@ -213,4 +213,4 @@ For any issues or questions regarding the project, please contact the project co
 
 ## License
 
-This project is licensed for educational purposes only as part of the COMP 408 Web Programming course.
+This project is licensed for educational purposes only as part of the Software Engineering Project.
