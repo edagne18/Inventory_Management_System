@@ -1,4 +1,4 @@
-# Sp24 COMP 408-01 Web Programming Project
+# COMP 408 Web Programming Project
 
 ## Project Overview
 
@@ -213,4 +213,4 @@ For any issues or questions regarding the project, please contact the project co
 
 ## License
 
-This project is licensed for educational purposes only as part of the Sp24 COMP 408-01 Web Programming course.
+This project is licensed for educational purposes only as part of the COMP 408 Web Programming course.
