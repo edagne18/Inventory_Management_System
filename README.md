@@ -213,4 +213,4 @@ For any issues or questions regarding the project, please contact the project co
 
 ## License
 
-This project is licensed for educational purposes only as part of the Software Engineering Project.
+This project is licensed for educational purposes only as part of the Software Engineering Project. 
